@@ -28,7 +28,7 @@ export default function Menu() {
   return (
     <nav>
       <ul className='menu'>
-        <li><img src='' alt='logo' className='logo'></img><h1>ByteBooks</h1></li>
+        <li><img src='https://cdn-icons-png.flaticon.com/128/5833/5833290.png' alt='logo' className='logo'></img><h1>ByteBooks</h1></li>
         <li className="item"><a href="#">Inicio</a></li>
         <li className="item"><a href="#">Amigos</a></li>
         <li className="item"><a href="#">Fotos</a></li>
